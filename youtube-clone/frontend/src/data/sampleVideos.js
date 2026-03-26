@@ -16,6 +16,7 @@ export const videos = [
     channelName: "Code with John",
     views: 10234,
   },
+  
   {
     videoId: "video03",
     title: "CSS Flexbox Tutorial",

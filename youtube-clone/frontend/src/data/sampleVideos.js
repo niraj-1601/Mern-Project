@@ -2,6 +2,7 @@
 export const videos = [
   {
     videoId: "video01",
+    
     title: "Learn React in 30 Minutes",
     thumbnailUrl: "https://i.ytimg.com/vi/dGcsHMXbSOA/hqdefault.jpg",
     description: "Quick React tutorial.",
@@ -41,7 +42,7 @@ export const videos = [
 
 
 
-    
+
 
 
 

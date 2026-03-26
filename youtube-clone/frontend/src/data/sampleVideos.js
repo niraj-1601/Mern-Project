@@ -18,7 +18,7 @@ export const videos = [
   },
 
   {
-    
+
     videoId: "video03",
 
     title: "CSS Flexbox Tutorial",
@@ -26,5 +26,6 @@ export const videos = [
     description: "Learn Flexbox fast.",
     channelName: "CSS Master",
     views: 8345,
+    
   },
 ];

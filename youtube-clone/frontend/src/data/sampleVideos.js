@@ -8,8 +8,9 @@ export const videos = [
     description: "Quick React tutorial.",
     channelName: "Code with John",
     views: 15200,
-    
+
   },
+  
   {
 
     videoId: "video02",

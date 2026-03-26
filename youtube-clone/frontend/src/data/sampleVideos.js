@@ -10,9 +10,10 @@ export const videos = [
     views: 15200,
 
   },
-  
+
   {
 
+    
     videoId: "video02",
     title: "Node.js Crash Course",
     thumbnailUrl: "https://i.ytimg.com/vi/fBNz5xF-Kx4/hqdefault.jpg",
